@@ -1,3 +1,3 @@
-**Bienvenidos a mi espacio de tareas**
+# Título con <font color="purple">Color</font>
 
-_Aqui encontraran todos mis trabajos realizados en POO_
+Este es un párrafo con un <span style="color:skyblue">enlace de color</span>.
