@@ -13,15 +13,15 @@ class Animal(ABC):
    
    #clase en especifico
    
-   class perro(Animal):
+class perro (Animal):
        
-       def hablar(self):
-           return "guau guau"
+    def hablar(self):
+        return "guau !"
    
-   class gato(Animal):
+class gato(Animal):
          
-         def hablar(self):
-              return "miau miau"
+    def hablar(self):
+        return "miau !"
           
 #usar las clases 
 perro = perro()
