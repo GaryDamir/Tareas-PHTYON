@@ -7,21 +7,21 @@ class Animal(ABC):
     
    @abstractmethod
    def hablar(self):
-       pass  #no se implementa el metodo
+        pass  #no se implementa el metodo
    
    
    
    #clase en especifico
    
-class perro (Animal):
+class perro(Animal):
        
     def hablar(self):
-        return "guau !"
+        return "guau guau"
    
 class gato(Animal):
          
     def hablar(self):
-        return "miau !"
+        return "miau miau"
           
 #usar las clases 
 perro = perro()

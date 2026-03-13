@@ -4,6 +4,4 @@
 
 ### Clase Estudiante
 
-* En este proyecto se implementó en Python la clase **Estudiante**, siguiendo la estructura mostrada en el diagrama UML proporcionado.  
-
-* A partir de este diagrama se desarrollaron los atributos y métodos correspondientes dentro del código. Las operaciones que aparecen en el diagrama UML fueron las que se programaron durante la clase y forman parte de la implementación realizada en este trabajo.
+* Este trabajo presenta la traducción de un modelo conceptual a código funcional. Se ha desarrollado la clase _Estudiante_ utilizando Python, tomando como base técnica el diagrama de clases UML.
